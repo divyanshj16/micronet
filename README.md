@@ -1,2 +1,2 @@
 # micronet
-NIPS Challenge
+NeurIPS Challenge
