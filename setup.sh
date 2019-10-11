@@ -1,6 +1,5 @@
 conda env create -f environment.yml
-chmod +x activate.sh
-source activate.sh
+source activate torch
 wget https://www.cs.toronto.edu/~kriz/cifar-100-python.tar.gz
 tar -xf cifar-100-python.tar.gz
 mv cifar-100-python cifar100
